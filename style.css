@@ -1,0 +1,52 @@
+#mount{
+    position: relative;
+    width: 100%;
+    z-index: 10;
+}   
+#text{
+    position: relative;
+    top: 0.9em;
+    z-index: 9;
+}
+#los{
+    position: relative;
+    color:#4d4c4c;
+    font-family: 'Rubik', sans-serif;
+}
+#mo{
+    position: relative;
+    color: #414f6b; 
+    font-family: 'Rubik', sans-serif;
+}
+/*history image*/
+#history{
+    position: relative;
+    width: 100%;
+    top: -23.8em;
+    z-index: 10;
+} 
+#one{
+    color:#444f60;
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    z-index: 11;
+}
+#hist{
+    color:#1e2c49;
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    z-index: 11;
+}
+#lorem{
+    color:#000000;
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    z-index: 11;
+}
+/*carousel*/
+#back{
+    background-color: rgba(0,0,0,.5);
+    position: relative;
+    top:-48.8em;
+    z-index: 12;
+}
